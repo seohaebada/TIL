@@ -18,7 +18,7 @@
 
 ## 04. Kotlin
 
-* [예정](https://github.com/seohaem)
+* [001_kotlin_java_비교](https://github.com/seohaem/TIL/blob/master/04_kotlin/001_kotlin_java_%EB%B9%84%EA%B5%90.md)
 
 ## 05. JPA
 
