@@ -19,6 +19,7 @@
 ## 04. Kotlin
 
 * [001_kotlin_java_비교](https://github.com/seohaem/TIL/blob/master/04_kotlin/001_kotlin_java_%EB%B9%84%EA%B5%90.md)
+* [002_kotlin_springboot_기본구조](https://github.com/seohaem/TIL/blob/master/04_kotlin/001_kotlin_java_%EB%B9%84%EA%B5%90.md)
 
 ## 05. JPA
 
