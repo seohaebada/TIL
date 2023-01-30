@@ -129,8 +129,8 @@ fun edit(id: Long, userId: Long, request: CommentRequest): CommentResponse? {
 }
 ```
 
-###### 출처 : https://kotlinworld.com/255
 ![kotlin_002_run.png](../image/kotlin_002_run.png)
+###### 출처 : https://kotlinworld.com/255
 
 ### 3) let
 - 수신객체를 이용해 작업한 후 마지막 줄을 return 할때 사용한다.
