@@ -5,7 +5,7 @@
 - 스프링 WebFlux는 클라이언트의 요청을 라우팅하고 처리할 수 있는 람다 기반 프로그래밍 모델인 함수형 엔드포인트(Functional Endpoints) 를 제공한다
 - 함수형 엔드포인트는 요청을 분석해 핸들러로 라우팅하는 라우터 함수(RouterFunction) 과 요청 객체를 전달 받아 응답을 제공하는 핸들러 함수(HandlerFunction) 으로 이뤄져 있다
 
-# 
+<br/>
 
 ## 라우터 함수
 
@@ -40,7 +40,7 @@ class Router {
 - 라우터 함수는 이러한 URI 패턴 매칭에 따른 분배 역할을 위해 RouterFunctions.route() 라는 유용한 빌더를 제공하고 있음
 - RouterFunctions.route()를 사용하면 HTTP 요청 메서드 GET, POST, PUT, DELETE 등에 대한 매핑을 위한 편리한 함수를 제공하므로 목적에 맞게 URI 패턴을 등록하여 라우팅 룰을 생성할 수 있다
 
-# 
+<br/>
 
 ## 중첩 라우터
 
@@ -58,7 +58,7 @@ fun userRouter(handler: UserHandler): RouterFunction<ServerResponse> =
     }
 ```
 
-# 
+<br/>
 
 ## 핸들러 함수
 

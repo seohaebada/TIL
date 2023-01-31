@@ -8,7 +8,7 @@
 - 함수형 프로그래밍의 접근 방식을 사용해서 비동기-논블로킹 코드의 난해함을 어느정도 해결한다
 - 백프레셔(Backpressure) 를 사용해 시스템의 부하를 효율적으로 조절할 수 있다
 
-# 
+<br/>
 
 ## Mono와 Flux
 
@@ -85,7 +85,7 @@ fun main() {
 > Cellphone(name=Iphone, price=100, currency=KRW)
 > Cellphone(name=Galaxy, price=90, currency=KRW)
 
-# 
+<br/>
 
 ## 스프링 WebFlux와 스프링 MVC 비교
 
@@ -126,7 +126,7 @@ val blockingWrapper = Mono.fromCallable {
 
 - 스프링 MVC에서도 리액터와 WebFlux 의존성을 추가하여 리액티브 코드와 논블로킹 라이브러리를 사용할 수 있다.
 
-# 
+<br/>
 
 ## 스프링 WebFlux Hello World 애플리케이션
 

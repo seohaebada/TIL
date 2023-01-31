@@ -42,7 +42,7 @@ fun main() {
 - 일반적으로 코루틴은 스레드를 차단하지 않고 사용해야하므로 runBlocking을 사용하는 것은 좋지 않지만 꼭 사용해야하는 경우가 있다
   - 코루틴을 지원하지 않는 경우 예) 테스트코드, 스프링 배치 등
 
-# 
+<br/>
 
 ## launch
 
@@ -122,7 +122,7 @@ fun main() = runBlocking<Unit> {
 - launch(start = CoroutineStart.LAZY) 를 사용해서 start 함수를 호출하는 시점에 코루틴을 동작시킬 수 있다
   - start 함수를 주석처리하면 launch가 동작하지 않는다
 
-# 
+<br/>
 
 ## async
 
@@ -154,7 +154,7 @@ fun main()= runBlocking<Unit> {
 - async는 비동기 작업의 결과로 Deferred 라는 특별한 인스턴스를 반환하는데 await 이라는 함수를 통해 async로 수행한 비동기 작업의 결과를 받아올 수 있다
 - 자바 스크립트나 다른 언어의 async-await은 키워드인 경우가 보통이지만 코틀린의 코루틴은 async-await이 함수인 점이 차이점이다
 
-# 
+<br/>
 
 ## suspend 함수
 
@@ -220,7 +220,7 @@ suspend fun doSomething() = coroutineScope {
 }
 ```
 
-# 
+<br/>
 
 ## Flow
 

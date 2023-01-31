@@ -49,7 +49,7 @@ class WebClientExample {
 - 만약 하나의 API에서 여러 서버의 응답을 받아 결합해서 처리하는 기능이 있는 경우라면 하나씩 처리하므로 응답이 느려지는 문제가 발생할 수 있다
 - 이런 문제점 때문에 복수개의 응답을 처리하는 경우라면 CompletableFuture과 같은 방식을 사용해야한다
 
-# 
+<br/>
 
 ## WebClient
 
