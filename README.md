@@ -51,7 +51,7 @@
 ](https://github.com/seohaem/TIL/blob/master/10_webflux/004_webflux_%EA%B8%B0%EC%B4%88.md)
 * [x] [005_스프링_webflux_함수형_엔드포인트
 ](https://github.com/seohaem/TIL/blob/master/10_webflux/005_%EC%8A%A4%ED%94%84%EB%A7%81_webflux_%ED%95%A8%EC%88%98%ED%98%95_%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8.md)
-* [x] [006_스프링_webflux_어노테이션_간단구현](https://github.com/seohaem/TIL/blob/master/10_webflux/006_%EC%8A%A4%ED%94%84%EB%A7%81_webflux_%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98_%EA%B0%84%EB%8B%A8%EA%B5%AC%ED%98%84)
+* [x] [006_스프링_webflux_어노테이션_간단구현](https://github.com/seohaem/TIL/blob/master/10_webflux/006_%EC%8A%A4%ED%94%84%EB%A7%81_webflux_%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98_%EA%B0%84%EB%8B%A8%EA%B5%AC%ED%98%84.md)
 * [x] [007_WebClient.md](https://github.com/seohaem/TIL/blob/master/10_webflux/007_WebClient.md)
 * [x] [008_스프링_데이터_R2DBC](https://github.com/seohaem/TIL/blob/master/10_webflux/008_%EC%8A%A4%ED%94%84%EB%A7%81_%EB%8D%B0%EC%9D%B4%ED%84%B0_R2DBC.md)
 * [x] [009_webflux_coroutine.md](https://github.com/seohaem/TIL/blob/master/10_webflux/009_webflux_coroutine.md)
