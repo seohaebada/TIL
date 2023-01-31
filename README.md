@@ -62,7 +62,7 @@
 
 ## 12. MongoDB
 
-* [x] [001_인덱스](https://github.com/seohaem/TIL/blob/master/12_mongodb/001_%EC%9D%B8%EB%8D%B1%EC%8B%B1_%EC%86%8C%EA%B0%9C.md)
+* [x] [001_인덱싱_소개](https://github.com/seohaem/TIL/blob/master/12_mongodb/001_%EC%9D%B8%EB%8D%B1%EC%8B%B1_%EC%86%8C%EA%B0%9C.md)
 * [ ] [002_인덱싱_explain]()
 * [ ] [003_인덱스_종류와_관리]()
 
