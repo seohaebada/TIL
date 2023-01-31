@@ -16,6 +16,8 @@ class HelloController {
 > $ curl localhost:8080/hello
 > Hello WebFlux
 
+# 
+
 ## Book 서비스 개발
 
 ### GET /books
@@ -23,7 +25,7 @@ class HelloController {
 - 저장된 전체 서적 리스트를 가져오는 API
 - 컨트롤러 함수의 반환타입이 Mono, Flux인 경우 WebFlux에서 자동으로 subscribe를 호출해준다
 
-- [Controller]
+> [Controller]
 ```kotlin
 package com.fastcampus.springwebflux.book
 
@@ -42,7 +44,7 @@ class BookController(
 }
 ```
 
-- [Service]
+> [Service]
 ```kotlin
 package com.fastcampus.springwebflux.book
 
@@ -79,7 +81,7 @@ class BookService {
 
 - id를 전달받아 서적을 가져오는 API
 
-- [Controller]
+> [Controller]
 ```kotlin
 package com.fastcampus.springwebflux.book
 
@@ -100,7 +102,7 @@ class BookController(
 }
 ```
 
-- [Service]
+> [Service]
 ```kotlin
 package com.fastcampus.springwebflux.book
 
@@ -125,7 +127,7 @@ class BookService {
 
 - 새로운 서적을 등록하는 API
 
-- [Controller]
+> [Controller]
 ```kotlin
 package com.fastcampus.springwebflux.book
 
@@ -148,7 +150,7 @@ class BookController(
 }
 ```
 
-- [Service]
+> [Service]
 ```kotlin
 package com.fastcampus.springwebflux.book
 import org.springframework.stereotype.Service
@@ -189,7 +191,7 @@ class BookService {
 
 - 등록된 서적을 삭제하는 API
 
-- [Controller]
+> [Controller]
 ```kotlin
 package com.fastcampus.springwebflux.book
 
@@ -213,7 +215,7 @@ class BookController(
 }
 ```
 
-- [Service]
+> [Service]
 ```kotlin
 package com.fastcampus.springwebflux.book
 

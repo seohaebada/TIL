@@ -126,6 +126,8 @@ Boolean isAdmin = userService.isAdmin(userId);
 val isAdmin: Boolean = userService.isAdmin(userId)
 ```
 
+# 
+
 ## 2. 코틀린에는 있지만 자바에는 없는 기능
 
 ### 확장

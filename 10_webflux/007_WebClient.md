@@ -6,7 +6,7 @@
 - 스프링 애플리케이션에서 다른 서버와 통신할 경우 유용하게 사용되고 있다
 - 하지만 Spring 5 부터 Deprecated되어 스프링 MVC, 스프링 WebFlux 모두 이후 소개할 WebClient를 사용하길 권고한다
 
-- [블로킹 방식의 RestTemplate 예시]
+> [블로킹 방식의 RestTemplate 예시]
 ```kotlin
 package com.fastcampus.springwebflux.webclient
 
@@ -48,6 +48,8 @@ class WebClientExample {
 - RestTemplate의 문제는 요청을 보낸 서버로 부터 응답을 받을 때까지 스레드가 블로킹되어 다른 일을 하지 못한다
 - 만약 하나의 API에서 여러 서버의 응답을 받아 결합해서 처리하는 기능이 있는 경우라면 하나씩 처리하므로 응답이 느려지는 문제가 발생할 수 있다
 - 이런 문제점 때문에 복수개의 응답을 처리하는 경우라면 CompletableFuture과 같은 방식을 사용해야한다
+
+# 
 
 ## WebClient
 

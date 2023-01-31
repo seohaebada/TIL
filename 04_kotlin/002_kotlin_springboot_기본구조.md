@@ -90,6 +90,8 @@ data class IssueResponse(
 }
 ```
 
+# 
+
 ## 사용한 문법 정리
 
 ### 1) sealed class
