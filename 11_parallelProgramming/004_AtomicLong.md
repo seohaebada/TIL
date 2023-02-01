@@ -7,10 +7,12 @@
 
 ### CAS 알고리즘 (Compared and Swap)
 
-1) CAS 알고리즘
+- CAS 알고리즘
+
 ![img_1.png](../image/parallel_003_2.png)
 
-2) CPU 캐시 메모리
+- CPU 캐시 메모리
+
 ![img.png](../image/parallel_003_1.png)
 
 ###### 출처 : https://beomseok95.tistory.com/225
