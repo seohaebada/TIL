@@ -12,6 +12,7 @@ data class ErrorResponse(
 - 에러가 발생했을때 나타낼 메시지를 표시한다
   - 메시지에는 stacktrace와 같이 언어, 프레임워크 정보, DB 필드 등이 노출되면 절대 안된다
 
+<br/>
 
 ## 1) @ExceptionHandler
 
@@ -71,6 +72,8 @@ class GlobalExceptionHandler {
     }
 }
 ```
+
+<br/>
 
 ## 2) ErrorWebExceptionHandler 구현
 
