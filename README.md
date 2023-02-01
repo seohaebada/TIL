@@ -14,7 +14,8 @@
 
 ## 03. Spring
 
-* [ ] [예정](https://github.com/seohaem)
+* [x] [001_sprnig_jwt_token_구현](https://github.com/seohaem/TIL/blob/master/03_spring/001_sprnig_jwt_token_%EA%B5%AC%ED%98%84.md)
+* [x] [002_spring_kotlin_ExceptionHandler](https://github.com/seohaem/TIL/blob/master/03_spring/002_spring_kotlin_ExceptionHandler.md)
 
 ## 04. Kotlin
 
@@ -58,13 +59,16 @@
 
 ## 11. Parallel Programming
 
-* [ ] [예정](https://github.com/seohaem)
+* [x] [001_비동기_논블로킹_프로그래밍](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/001_%EB%B9%84%EB%8F%99%EA%B8%B0_%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
+* [x] [002_스레드_안전한_코드](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/002_%EC%8A%A4%EB%A0%88%EB%93%9C_%EC%95%88%EC%A0%84%ED%95%9C_%EC%BD%94%EB%93%9C.md)
+* [x] [003_경쟁조건](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/003_%EA%B2%BD%EC%9F%81%EC%A1%B0%EA%B1%B4.md)
+* [x] [004_AtomicLong](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/004_AtomicLong.md)
 
 ## 12. MongoDB
 
 * [x] [001_인덱싱_소개](https://github.com/seohaem/TIL/blob/master/12_mongodb/001_%EC%9D%B8%EB%8D%B1%EC%8B%B1_%EC%86%8C%EA%B0%9C.md)
-* [ ] [002_인덱싱_explain]()
-* [ ] [003_인덱스_종류와_관리]()
+* [x] [002_인덱싱_explain](https://github.com/seohaem/TIL/blob/master/12_mongodb/002_%EC%9D%B8%EB%8D%B1%EC%8B%B1_explain.md)
+* [x] [003_인덱스_종류와_관리](https://github.com/seohaem/TIL/blob/master/12_mongodb/003_%EC%9D%B8%EB%8D%B1%EC%8A%A4_%EC%A2%85%EB%A5%98%EC%99%80_%EA%B4%80%EB%A6%AC.md)
 
 ## 13. 네트워크
 
