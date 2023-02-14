@@ -65,12 +65,15 @@
 * [x] [004_AtomicLong](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/004_AtomicLong.md)
 * [x] [005_ThreadLocal](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/005_ThreadLocal.md)
 * [x] [006_volatile](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/006_volatile.md)
+* [x] [007_공개된_객체_동기화](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/007_%EA%B3%B5%EA%B0%9C%EB%90%9C_%EA%B0%9D%EC%B2%B4_%EB%8F%99%EA%B8%B0%ED%99%94.md)
+* [x] [008_자바_모니터_패턴](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/008_%EC%9E%90%EB%B0%94_%EB%AA%A8%EB%8B%88%ED%84%B0_%ED%8C%A8%ED%84%B4.md)
 
 ## 12. MongoDB
 
 * [x] [001_인덱싱_소개](https://github.com/seohaem/TIL/blob/master/12_mongodb/001_%EC%9D%B8%EB%8D%B1%EC%8B%B1_%EC%86%8C%EA%B0%9C.md)
 * [x] [002_인덱싱_explain](https://github.com/seohaem/TIL/blob/master/12_mongodb/002_%EC%9D%B8%EB%8D%B1%EC%8B%B1_explain.md)
 * [x] [003_인덱스_종류와_관리](https://github.com/seohaem/TIL/blob/master/12_mongodb/003_%EC%9D%B8%EB%8D%B1%EC%8A%A4_%EC%A2%85%EB%A5%98%EC%99%80_%EA%B4%80%EB%A6%AC.md)
+* [x] [004_트랜잭션](https://github.com/seohaem/TIL/blob/master/12_mongodb/004_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
 
 ## 13. 네트워크
 
