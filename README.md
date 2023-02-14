@@ -63,6 +63,8 @@
 * [x] [002_스레드_안전한_코드](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/002_%EC%8A%A4%EB%A0%88%EB%93%9C_%EC%95%88%EC%A0%84%ED%95%9C_%EC%BD%94%EB%93%9C.md)
 * [x] [003_경쟁조건](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/003_%EA%B2%BD%EC%9F%81%EC%A1%B0%EA%B1%B4.md)
 * [x] [004_AtomicLong](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/004_AtomicLong.md)
+* [x] [005_ThreadLocal](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/005_ThreadLocal.md)
+* [x] [006_volatile](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/006_volatile.md)
 
 ## 12. MongoDB
 
