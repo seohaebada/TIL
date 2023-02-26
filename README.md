@@ -102,7 +102,6 @@
 * [x] [예제5_2_클라이언트락_동기화](https://github.com/seohaem/2023/tree/main/java-concurrency_book/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_02_%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EB%9D%BD_%EB%8F%99%EA%B8%B0%ED%99%94)
 * [x] [예제5_6_iterator_숨김_좋지않음](https://github.com/seohaem/2023/tree/main/java-concurrency_book/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_06_iterator_%EC%88%A8%EA%B9%80_%EC%A2%8B%EC%A7%80%EC%95%8A%EC%9D%8C)
 * [x] [예제5_7_concurrentMap](https://github.com/seohaem/2023/tree/main/java-concurrency_book/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_07_concurrentMap)
-* [x] [SpringBoot 재고 감소 동시성 제어 - Redisson 사용 (+ AOP 적용)](https://devfunny.tistory.com/888)
 * [x] [예제5_8과_예제5_9프로듀서_컨슈머패턴_데스크탑_예제](https://github.com/seohaem/2023/tree/main/java-concurrency_book/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_8%EA%B3%BC_%EC%98%88%EC%A0%9C5_9%ED%94%84%EB%A1%9C%EB%93%80%EC%84%9C_%EC%BB%A8%EC%8A%88%EB%A8%B8%ED%8C%A8%ED%84%B4_%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91_%EC%98%88%EC%A0%9C)
 * [x] [예제5_10_인터럽트_발생사실_저장](https://github.com/seohaem/2023/tree/main/java-concurrency_book/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_10_%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8_%EB%B0%9C%EC%83%9D%EC%82%AC%EC%8B%A4_%EC%A0%80%EC%9E%A5)
 * [x] [예제5_11_CountDownLatch_전체실행시간_측정](https://github.com/seohaem/2023/tree/main/java-concurrency_book/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_11_CountDownLatch_%EC%A0%84%EC%B2%B4%EC%8B%A4%ED%96%89%EC%8B%9C%EA%B0%84_%EC%B8%A1%EC%A0%95)
