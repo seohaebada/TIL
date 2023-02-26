@@ -33,7 +33,7 @@
 
 ## 07. Docker
 
-* [ ] [예정](https://github.com/seohaem)
+* [x] [`블로그` [Docker] Dockerfile + docker-compose 를 사용하여 SpringBoot 프로젝트 실행시키기](https://devfunny.tistory.com/902)
 
 ## 08. Domain Driven Design
 
@@ -65,6 +65,8 @@
 * [x] [004_AtomicLong](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/004_AtomicLong.md)
 * [x] [005_ThreadLocal](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/005_ThreadLocal.md)
 * [x] [006_volatile](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/006_volatile.md)
+* [x] [007_공개된_객체_동기화](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/007_%EA%B3%B5%EA%B0%9C%EB%90%9C_%EA%B0%9D%EC%B2%B4_%EB%8F%99%EA%B8%B0%ED%99%94.md)
+* [x] [008_자바_모니터_패턴](https://github.com/seohaem/TIL/blob/master/11_parallelProgramming/008_%EC%9E%90%EB%B0%94_%EB%AA%A8%EB%8B%88%ED%84%B0_%ED%8C%A8%ED%84%B4.md)
 * [x] [예제2_1_상태없는_서블릿](https://github.com/seohaem/2023/tree/main/java-concurrency_book/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_01_%EC%83%81%ED%83%9C%EC%97%86%EB%8A%94_%EC%84%9C%EB%B8%94%EB%A6%BF)
 * [x] [예제2_2_동기화_구문없이_요청횟수_세기](https://github.com/seohaem/2023/tree/main/java-concurrency_book/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_02_%EB%8F%99%EA%B8%B0%ED%99%94_%EA%B5%AC%EB%AC%B8%EC%97%86%EC%9D%B4_%EC%9A%94%EC%B2%AD%ED%9A%9F%EC%88%98_%EC%84%B8%EA%B8%B0)
 * [x] [예제2_3_늦은초기화_경쟁조건](https://github.com/seohaem/2023/tree/main/java-concurrency_book/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_03_%EB%8A%A6%EC%9D%80%EC%B4%88%EA%B8%B0%ED%99%94_%EA%B2%BD%EC%9F%81%EC%A1%B0%EA%B1%B4)
@@ -118,6 +120,7 @@
 * [x] [001_인덱싱_소개](https://github.com/seohaem/TIL/blob/master/12_mongodb/001_%EC%9D%B8%EB%8D%B1%EC%8B%B1_%EC%86%8C%EA%B0%9C.md)
 * [x] [002_인덱싱_explain](https://github.com/seohaem/TIL/blob/master/12_mongodb/002_%EC%9D%B8%EB%8D%B1%EC%8B%B1_explain.md)
 * [x] [003_인덱스_종류와_관리](https://github.com/seohaem/TIL/blob/master/12_mongodb/003_%EC%9D%B8%EB%8D%B1%EC%8A%A4_%EC%A2%85%EB%A5%98%EC%99%80_%EA%B4%80%EB%A6%AC.md)
+* [x] [004_트랜잭션](https://github.com/seohaem/TIL/blob/master/12_mongodb/004_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
 
 ## 13. 네트워크
 
