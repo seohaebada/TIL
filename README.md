@@ -16,6 +16,7 @@
 
 * [x] [001_sprnig_jwt_token_구현](https://github.com/seohaem/TIL/blob/master/03_spring/001_sprnig_jwt_token_%EA%B5%AC%ED%98%84.md)
 * [x] [002_spring_kotlin_ExceptionHandler](https://github.com/seohaem/TIL/blob/master/03_spring/002_spring_kotlin_ExceptionHandler.md)
+* [x] [01_스프링부트_시작하기](https://github.com/seohaem/2023/blob/main/toby_springboot/basic/01_%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8_%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
 
 ## 04. Kotlin
 
