@@ -40,6 +40,7 @@
 
 * [x] [`블로그` [Docker] Dockerfile + docker-compose 를 사용하여 SpringBoot 프로젝트 실행시키기](https://devfunny.tistory.com/902)
 * [x] [`블로그` [Docker] Dockerfile이란 무엇인가?](https://devfunny.tistory.com/904)
+* [x] [`블로그` [Docker] docker + postgresql 설치부터 계정 생성까지](https://devfunny.tistory.com/906)
 
 ## 08. Domain Driven Design
 
