@@ -8,6 +8,9 @@
 * [x] [실무 프로젝트로 배우는 Kotlin & Spring : 리팩토링부터 서비스 구현까지](https://github.com/seohaem/2023/tree/main/fastcampus_kotlin)
 * [ ] [토비의 스프링 부트 - 이해와 원리](https://github.com/seohaem/2023/tree/main/toby_springboot)
 
+## [스터디]
+* [ ] [몽고DB 완벽가이드 (2023.01.14 ~ 진행중)](https://github.com/Meet-Coder-Study/mongodb-study)
+
 ## 01. Side Project
 
 * [ ] [예정](https://github.com/seohaem)
