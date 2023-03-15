@@ -10,6 +10,7 @@
 
 ## [스터디]
 * [ ] [몽고DB 완벽가이드 (2023.01.14 ~ 진행중)](https://github.com/Meet-Coder-Study/mongodb-study)
+* [ ] [이펙티브자바 1부 (2023.03.28 ~ 진행중)]()
 
 ## 01. Side Project
 
