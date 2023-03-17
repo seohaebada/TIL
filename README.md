@@ -141,6 +141,7 @@
 * [x] [002_인덱싱_explain](https://github.com/seohaem/TIL/blob/master/12_mongodb/002_%EC%9D%B8%EB%8D%B1%EC%8B%B1_explain.md)
 * [x] [003_인덱스_종류와_관리](https://github.com/seohaem/TIL/blob/master/12_mongodb/003_%EC%9D%B8%EB%8D%B1%EC%8A%A4_%EC%A2%85%EB%A5%98%EC%99%80_%EA%B4%80%EB%A6%AC.md)
 * [x] [004_트랜잭션](https://github.com/seohaem/TIL/blob/master/12_mongodb/004_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
+* [x] [`블로그` [몽고DB 완벽가이드] 샤딩의 개념](https://devfunny.tistory.com/907)
 
 ## 13. 네트워크
 
