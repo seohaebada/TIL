@@ -31,7 +31,7 @@ suspend fun combineApi() = coroutineScope {
 
 - 스프링 WebFlux 공식문서의 코틀린 예제들을 보면 모두 코루틴 기반의 예제를 소개하고 있다
 
-![img.png](../image/webflux_009_1.png)
+![img.png](../_image/webflux_009_1.png)
 
 - 스프링 MVC, 스프링 WebFlux 모두 코루틴을 지원하여 의존성만 추가하면 바로 사용 가능
 - 아래 의존성을 build.gradle.kts에 추가하면 코루틴을 사용할 수 있다

@@ -6,7 +6,7 @@
   - 변수에 값을 쓰는 경우 : Thread -> CPU 캐시 -> Main Memory
   - 변수의 값을 읽는 경우 : Main Memory -> CPU 캐시 -> Thread
 
-![img.png](../image/parallel_006_1.png)
+![img.png](../_image/parallel_006_1.png)
 
 - Java Virtual Machine(JVM)은 메인 메모리에서 CPU 캐시로 데이터를 읽어들이거나 CPU 캐시에서 메인 메모리로 데이터를 쓰는 시기를 보장하지 않는다.
 ```java
@@ -16,7 +16,7 @@ public class Test {
 ```
 - counter 변수가 volatile로 선언되지 않은 경우 counter 변수의 값이 CPU 캐시에서 메인 메모리로 다시 기록되는 시점에 대한 보장은 없다. 즉, CPU 캐시의 카운터 변수 값이 메인 메모리와 동일하지 않을 수 있다.
 
-![img_1.png](../image/parallel_006_2.png)
+![img_1.png](../_image/parallel_006_2.png)
 
 - 쓰레드1이 counter 변수를 0에서 7로 변경했다. (CPU 캐시에만 변경된 값이 쓰이고 메인 메모리에는 기록되지 않은 시점)
 - 메인 메모리에는 아직 최신 값이 반영되지 않았기 때문에 쓰레드2는 이전 값인 0을 읽어들인다.
@@ -124,7 +124,7 @@ public class OneValueCache {
 - 쓰레드1만 공유 변수에 쓰는 상황에서 해당 변수를 volatile로 선언하면 쓰레드2가 항상 최신 값을 볼 수 있다.
   - 즉, 하나의 쓰레드만 쓰는 역할을 한다면 멀티 쓰레드간의 가시성이 보장된다.
 
-![img_2.png](../image/parallel_006_3.png)
+![img_2.png](../_image/parallel_006_3.png)
 
 - 쓰레드1과 쓰레드2는 이제 실질적으로 동기화에서 멀어졌다. 
 - 공유 counter 변수의 실제 값은 2여야 하지만 각 쓰레드는 CPU 캐시에 있는 변수의 값을 메인 메모리에 옮기더라도 1이 될 것이다.

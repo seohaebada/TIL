@@ -77,7 +77,7 @@
 
 ## Study
 
-### JAVA
+## JAVA
 * [x] [JVM GC (Garbage Collection) 에 대한 정리](https://devfunny.tistory.com/681)
 * [x] [람다표현식에 대해 알아보기](https://devfunny.tistory.com/335)
 * [x] [실행 어라운드 패턴](https://devfunny.tistory.com/336)
@@ -116,7 +116,7 @@
 * [x] [JAVA 멀티쓰레드: 멀티쓰레드 예제](https://github.com/seohaem/2021to2022/tree/master/parallel-programming/concurrency_lecture1/src/main/java/org/example/chap02_multiThread)
 * [x] [JAVA 멀티쓰레드: 동시성 제어](https://github.com/seohaem/2021to2022/tree/master/parallel-programming/concurrency_lecture1/src/main/java/org/example/chap03_concurrency)
 
-### Spring
+## Spring
 * [x] [스프링부트 공통 Exception 처리하기](https://devfunny.tistory.com/318)
 * [x] [SpringBoot에 Http Client Feign 적용해보기](https://devfunny.tistory.com/312)
 * [x] [AWS ec2에 jenkins 설치하기 (+jdk1.7 삭제 후 openjdk11 설치)](https://devfunny.tistory.com/302)
@@ -158,7 +158,7 @@
 * [x] [step20_springboot](https://github.com/seohaem/2023/tree/main/toby_springboot/helloboot/src/main/java/tobyspring/helloboot/step20_springboot)
 * [x] [step21_스프링부트_자세히살펴보기](https://github.com/seohaem/2023/tree/main/toby_springboot/helloboot/src/main/java/tobyspring/helloboot/step21_%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8_%EC%9E%90%EC%84%B8%ED%9E%88%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0)
 
-### SpringBatch
+## SpringBatch
 * [x] [1. Hello Spring Batch!](https://devfunny.tistory.com/754)
 * [x] [2. ApplicationRunner 구현 클래스로 Job 수행시키기](https://devfunny.tistory.com/755)
 * [x] [3. Batch Job 수행시 Step 실패하는 경우](https://devfunny.tistory.com/758)
@@ -199,7 +199,7 @@
 * [x] [36. CustomItemProcessor 여러개를 이어서 수행시키기 (Processor 체이닝)](https://devfunny.tistory.com/843)
 * [x] [37. DB 조회한 데이터를 .josn 파일로 생성하는 배치 (JsonFileItemWriter)](https://devfunny.tistory.com/847)
 
-### Java DesignPattern
+## Java DesignPattern
 * [x] [싱글톤 패턴](https://github.com/seohaem/2021to2022/tree/master/java/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_01_singleton)
 * [x] [팩토리 메서드 패턴](https://github.com/seohaem/2021to2022/tree/master/java/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_02_factory_method)
 * [x] [복습(포스팅) - 팩토리 메서드 패턴](https://devfunny.tistory.com/897)
@@ -229,7 +229,7 @@
 * [x] [복습(포스팅) - 템플릿 콜백 패턴](https://devfunny.tistory.com/900)
 * [x] [방문자 (Visitor) 패턴](https://github.com/seohaem/2021to2022/tree/master/java/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_23_visitor)
 
-### Effective Java
+## Effective Java
 * [x] [아이템 15. 클래스와 멤버의 접근 권한을 최소화하라](https://devfunny.tistory.com/540)
 * [x] [아이템 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라](https://devfunny.tistory.com/542)
 * [x] [아이템 17. 변경 가능성을 최소화하라](https://devfunny.tistory.com/543)
@@ -308,7 +308,7 @@
 * [x] [아이템 89. 인스턴스 수를 통제해야 한다면 readResolve보다는 열거 타입을 사용하라](https://devfunny.tistory.com/863)
 * [x] [아이템 90. 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라](https://devfunny.tistory.com/864)
 
-### Apache Kafka
+## Apache Kafka
 * [x] [1. 카프카의 탄생](https://devfunny.tistory.com/742)
 * [x] [2. 카프카 프로듀서, 컨슈머 실행해보기 (with Docker)](https://devfunny.tistory.com/743)
 * [x] [3. 카프카의 기본 개념 정리 (브로커, 페이지 캐시, 리플리케이션, 컨슈머 그룹, 코디네이터, 주키퍼, 토픽, 레코드, 오프셋)](https://devfunny.tistory.com/744)
@@ -333,7 +333,7 @@
 * [x] [22. 스프링 카프카 컨슈머](https://devfunny.tistory.com/800)
 * [x] [(총정리) Apache Kafka 기본 개념 총정리](https://devfunny.tistory.com/823)
 
-### JPA
+## JPA
 * [x] [1. JPA 란 무엇인가?](https://devfunny.tistory.com/813)
 * [x] [2. 영속성 관리 (영속성 컨텍스트)](https://devfunny.tistory.com/814)
 * [x] [3. 엔티티 매핑](https://devfunny.tistory.com/815)
@@ -344,7 +344,7 @@
 * [x] [[Querydsl 3편] Querydsl 메서드 정리](https://devfunny.tistory.com/849)
 * [x] [[JPA] 고급매핑 - 조인 전략, 단일 테이블 전략, 구현 클래스별 테이블 전략](https://devfunny.tistory.com/694)
 
-### Kotlin
+## Kotlin
 * [x] [1. Hello Kotlin 기본 코드 분석하기](https://devfunny.tistory.com/733)
 * [x] [2. 변수, 문자열 템플릿](https://devfunny.tistory.com/734)
 * [x] [3. 클래스, 프로퍼티](https://devfunny.tistory.com/735)
@@ -398,20 +398,20 @@
 * [x] [002_kotlin_springboot_기본구조](https://github.com/seohaem/TIL/blob/master/04_kotlin/002_kotlin_springboot_%EA%B8%B0%EB%B3%B8%EA%B5%AC%EC%A1%B0.md)
 * [x] [003_coroutine_기초](https://github.com/seohaem/TIL/blob/master/04_kotlin/003_coroutine_%EA%B8%B0%EC%B4%88.md)
 
-### Database
+## Database
 * [x] [DB Lock](https://devfunny.tistory.com/668)
 * [x] [데이터베이스 조인](https://devfunny.tistory.com/676)
 * [x] [오라클 시퀀스](https://devfunny.tistory.com/677)
 
-### 운영체제
+## 운영체제
 * [x] [운영체제 메모리 구조](https://devfunny.tistory.com/650)
 * [x] [동기 (Synchronous), 비동기 (Asynchronous), 블로킹 (Blocking), 논블로킹 (Non-Blocking)](https://devfunny.tistory.com/656)
 
-### 네트워크
+## 네트워크
 * [x] [브라우저 URL 파싱 (주소창에 URL을 쳤을때 발생하는 상황 과정)](https://devfunny.tistory.com/651)
 * [x] [CORS](https://devfunny.tistory.com/633)
 
-### 자료구조 및 알고리즘
+## 자료구조 및 알고리즘
 * [x] [그리디](https://devfunny.tistory.com/706)
 * [x] [구현](https://devfunny.tistory.com/707)
 * [x] [스택](https://devfunny.tistory.com/708)
@@ -431,7 +431,7 @@
 * [x] [그래프 이론 - 크루스칼](https://devfunny.tistory.com/660)
 * [x] [그래프 이론 - 위상 정렬](https://devfunny.tistory.com/661)
 
-### 유형별 JAVA 알고리즘 문제풀이
+## 유형별 JAVA 알고리즘 문제풀이
 * [x] [기본) 알고리즘 구현](https://github.com/seohaem/2021to2022/tree/master/kotlin/java_algorithm/src/com/algorithm/_00_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B5%AC%ED%98%84)
 * [x] [01) 그리디 구현](https://github.com/seohaem/2021to2022/tree/master/kotlin/java_algorithm/src/com/algorithm/_01_%EA%B7%B8%EB%A6%AC%EB%94%94_%EA%B5%AC%ED%98%84)
 * [x] [02) Stack](https://github.com/seohaem/2021to2022/tree/master/kotlin/java_algorithm/src/com/algorithm/_02_Stack)
@@ -445,7 +445,7 @@
 * [x] [10) 투포인터](https://github.com/seohaem/2021to2022/tree/master/kotlin/java_algorithm/src/com/algorithm/_10_%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0)
 * [x] [11) 백트래킹](https://github.com/seohaem/2021to2022/tree/master/kotlin/java_algorithm/src/com/algorithm/_11_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
 
-### 비동기 프로그래밍
+## 비동기 프로그래밍
 * [x] [예제2_1_상태없는_서블릿](https://github.com/seohaem/2023/tree/main/java-concurrency_book/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_01_%EC%83%81%ED%83%9C%EC%97%86%EB%8A%94_%EC%84%9C%EB%B8%94%EB%A6%BF)
 * [x] [예제2_2_동기화_구문없이_요청횟수_세기](https://github.com/seohaem/2023/tree/main/java-concurrency_book/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_02_%EB%8F%99%EA%B8%B0%ED%99%94_%EA%B5%AC%EB%AC%B8%EC%97%86%EC%9D%B4_%EC%9A%94%EC%B2%AD%ED%9A%9F%EC%88%98_%EC%84%B8%EA%B8%B0)
 * [x] [예제2_3_늦은초기화_경쟁조건](https://github.com/seohaem/2023/tree/main/java-concurrency_book/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_03_%EB%8A%A6%EC%9D%80%EC%B4%88%EA%B8%B0%ED%99%94_%EA%B2%BD%EC%9F%81%EC%A1%B0%EA%B1%B4)
@@ -524,7 +524,7 @@
 * [x] [예제13_01_Lock_인터페이스](https://github.com/seohaem/2023/tree/main/java-concurrency_book/src/main/java/com/concurrency/chapter13/%EC%98%88%EC%A0%9C13_01_Lock_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
 * [x] [예제13_02_ReetrantLock_객체동기화](https://github.com/seohaem/2023/tree/main/java-concurrency_book/src/main/java/com/concurrency/chapter13/%EC%98%88%EC%A0%9C13_02_ReetrantLock_%EA%B0%9D%EC%B2%B4%EB%8F%99%EA%B8%B0%ED%99%94)
 
-## 12. MongoDB
+## MongoDB
 
 * [x] [001_인덱싱_소개](https://github.com/seohaem/TIL/blob/master/12_mongodb/001_%EC%9D%B8%EB%8D%B1%EC%8B%B1_%EC%86%8C%EA%B0%9C.md)
 * [x] [002_인덱싱_explain](https://github.com/seohaem/TIL/blob/master/12_mongodb/002_%EC%9D%B8%EB%8D%B1%EC%8B%B1_explain.md)
@@ -534,7 +534,7 @@
 * [x] [`블로그` [몽고DB 완벽가이드] 샤딩의 구성](https://devfunny.tistory.com/908)
 * [x] [`블로그` [몽고DB 완벽가이드] 샤드 키 선정](https://devfunny.tistory.com/909)
 
-### 리팩토링
+## 리팩토링
 * [x] [냄새 1. 이해하기 힘든 이름](https://github.com/seohaem/2021to2022/tree/master/java/java-refactoring/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_%EB%83%84%EC%83%881_%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0_%ED%9E%98%EB%93%A0%EC%9D%B4%EB%A6%84.md)
 * [x] [냄새 1. 리팩토링 1. 함수 선언 변경하기](https://github.com/seohaem/2021to2022/tree/master/java/java-refactoring/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_01_change_method_declaration)
 * [x] [냄새 1. 리팩토링 2. 변수 이름 바꾸기](https://github.com/seohaem/2021to2022/tree/master/java/java-refactoring/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_02_rename_variable)
@@ -603,7 +603,7 @@
 * [x] [냄새 24. 주석](https://github.com/seohaem/2021to2022/tree/master/java/java-refactoring/src/main/java/me/whiteship/refactoring/_24_comments)
 * [x] [냄새 24. 리팩토링 43. 어서션 추가하기](https://github.com/seohaem/2021to2022/tree/master/java/java-refactoring/src/main/java/me/whiteship/refactoring/_24_comments/_43_introduce_assertion)
 
-### RxJava-Reactive Programming
+## RxJava-Reactive Programming
 * [x] [[RxJava] 리액티브(Reactive) 프로그래밍이란](https://github.com/seohaem/2021to2022/tree/master/webflux/rxjava_lecture/src/main/java/com/itvillage/chapter01)
 * [x] [[RxJava] 마블 다이어그램 소개](https://github.com/seohaem/2021to2022/tree/master/webflux/rxjava_lecture/src/main/java/com/itvillage/chapter01)
 * [x] [[RxJava] 프로젝트 환경 구축 및 Hello RxJava](https://github.com/seohaem/2021to2022/tree/master/webflux/rxjava_lecture/src/main/java/com/itvillage/chapter02)
@@ -654,15 +654,14 @@
 * [x] [001_옵저버_패턴](https://github.com/seohaem/TIL/blob/master/10_webflux/001_%EC%98%B5%EC%A0%80%EB%B2%84_%ED%8C%A8%ED%84%B4.md)
 * [x] [002_이터레이터_패턴](https://github.com/seohaem/TIL/blob/master/10_webflux/002_%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0_%ED%8C%A8%ED%84%B4.md)
 * [x] [003_리액티브_프로그래밍](https://github.com/seohaem/TIL/blob/master/10_webflux/003_%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
-* [x] [004_webflux_기초.md
-  ](https://github.com/seohaem/TIL/blob/master/10_webflux/004_webflux_%EA%B8%B0%EC%B4%88.md)
+* [x] [004_webflux_기초.md](https://github.com/seohaem/TIL/blob/master/10_webflux/004_webflux_%EA%B8%B0%EC%B4%88.md)
 * [x] [005_스프링_webflux_함수형_엔드포인트](https://github.com/seohaem/TIL/blob/master/10_webflux/005_%EC%8A%A4%ED%94%84%EB%A7%81_webflux_%ED%95%A8%EC%88%98%ED%98%95_%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8.md)
 * [x] [006_스프링_webflux_어노테이션_간단구현](https://github.com/seohaem/TIL/blob/master/10_webflux/006_%EC%8A%A4%ED%94%84%EB%A7%81_webflux_%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98_%EA%B0%84%EB%8B%A8%EA%B5%AC%ED%98%84.md)
 * [x] [007_WebClient.md](https://github.com/seohaem/TIL/blob/master/10_webflux/007_WebClient.md)
 * [x] [008_스프링_데이터_R2DBC](https://github.com/seohaem/TIL/blob/master/10_webflux/008_%EC%8A%A4%ED%94%84%EB%A7%81_%EB%8D%B0%EC%9D%B4%ED%84%B0_R2DBC.md)
 * [x] [009_webflux_coroutine.md](https://github.com/seohaem/TIL/blob/master/10_webflux/009_webflux_coroutine.md)
 
-### Domain Driven Design
+## Domain Driven Design
 * [x] [[ddd] 아키텍처 구조 연습 (package struct)](https://github.com/seohaem/ddd/tree/master/ddd-practice-package-project)
 * [x] [[Domain Driven Design] 1. 도메인이란?](https://devfunny.tistory.com/869)
 * [x] [[Domain Driven Design] 2. 도메인 모델](https://devfunny.tistory.com/870)
@@ -676,7 +675,7 @@
 * [x] [[Domain Driven Design] 10. 리포지토리와 애그리거트, 애그리거트 간의 참조 관계](https://devfunny.tistory.com/885)
 * [x] [[Domain Driven Design] 11. 애그리거트 간 집합 연관, 애그리거트의 팩토리 역할](https://devfunny.tistory.com/886)
 
-### Docker
+## Docker
 * [x] [`블로그` [Docker] Dockerfile + docker-compose 를 사용하여 SpringBoot 프로젝트 실행시키기](https://devfunny.tistory.com/902)
 * [x] [`블로그` [Docker] Dockerfile이란 무엇인가?](https://devfunny.tistory.com/904)
 * [x] [`블로그` [Docker] docker + postgresql 설치부터 계정 생성까지](https://devfunny.tistory.com/906)

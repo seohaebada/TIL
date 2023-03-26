@@ -131,7 +131,7 @@ fun edit(id: Long, userId: Long, request: CommentRequest): CommentResponse? {
 }
 ```
 
-![kotlin_002_run.png](../image/kotlin_002_1.png)
+![kotlin_002_run.png](../_image/kotlin_002_1.png)
 ###### 출처 : https://kotlinworld.com/255
 
 ### 3) let

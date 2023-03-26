@@ -14,7 +14,7 @@
     - RuntimeException : 런타임시에 발생하는 예외. 예외 처리를 강제하지 않음
         - e.g. NullPointerException, ArrayIndexOutOfBoundsException, etc
 
-<img width="750" alt="image" src="https://user-images.githubusercontent.com/87924260/215307508-a422114c-4f8d-4622-8391-a1249b8bffea.png">
+<img width="750" alt="study._image" src="https://user-images.githubusercontent.com/87924260/215307508-a422114c-4f8d-4622-8391-a1249b8bffea.png">
 
 - 코드 처리 방법
     - 자바에서 checked Exception은 컴파일 에러가 발생하기 때문에 무조건 try~catch로 감싸거나 throws로 예외를 전파해야한다.
