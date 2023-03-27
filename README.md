@@ -1,14 +1,14 @@
 # Today I Learned(TIL) Wiki
 [![Blog](https://img.shields.io/badge/Blog-https://devfunny.tistory.com/-green.svg)](https://devfunny.tistory.com/)
 
-## 사이드 프로젝트
+# 사이드 프로젝트
 * [x] [Expedia](https://github.com/cIonecoder)
 
-## [스터디]
+# 스터디 모임
 * [ ] [몽고DB 완벽가이드 (2023.01.14 ~ 진행중)](https://github.com/Meet-Coder-Study/mongodb-study)
 * [ ] [이펙티브자바 1부 (2023.03.28 ~ 진행중)]()
 
-## 강의
+# 강의
 * [x] [[1] 코딩으로 학습하는 GoF의 디자인 패턴](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
   - https://github.com/seohaem/2021to2022/tree/master/java/java_GoFdesignpattern
 * [x] [[2] Sping Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
@@ -75,7 +75,7 @@
 * [x] [[27] 실무 프로젝트로 배우는 Kotlin & Spring : 리팩토링부터 서비스 구현까지](https://github.com/seohaem/2023/tree/main/fastcampus_kotlin)
 * [x] [[28] 토비의 스프링 부트 - 이해와 원리](https://github.com/seohaem/2023/tree/main/toby_springboot)
 
-## Study
+# Study
 
 ## JAVA
 * [x] [JVM GC (Garbage Collection) 에 대한 정리](https://devfunny.tistory.com/681)
