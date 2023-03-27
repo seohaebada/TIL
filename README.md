@@ -163,6 +163,10 @@
 * [x] [chapter03. 스프링 부트 개발자 도구](https://github.com/seohaem/2023/tree/main/springboot-reactive/3-reactive)
 * [x] [chapter04. 스프링 부트 테스트](https://github.com/seohaem/2023/tree/main/springboot-reactive/4-reactive)
 * [x] [chapter05. 스프링 부트 운영](https://github.com/seohaem/2023/tree/main/springboot-reactive/5-reactive)
+* [x] [chapter06. 스프링 부트 API 서버 구축](https://github.com/seohaem/2023/tree/main/springboot-reactive/6-reactive)
+* [x] [chapter07. 스프링 부트 메시징](https://github.com/seohaem/2023/tree/main/springboot-reactive/7-reactive)
+* [x] [chapter08. 스프링 부트 R소켓 - server](https://github.com/seohaem/2023/tree/main/springboot-reactive/8-reactive-server)
+* [x] [chapter08. 스프링 부트 R소켓 - client](https://github.com/seohaem/2023/tree/main/springboot-reactive/8-reactive-client)
 
 ## SpringBatch
 * [x] [1. Hello Spring Batch!](https://devfunny.tistory.com/754)
