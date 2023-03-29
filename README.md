@@ -74,6 +74,7 @@
   - https://github.com/seohaem/2021to2022/tree/master/parallel-programming/concurrency-stock-project
 * [x] [[27] 실무 프로젝트로 배우는 Kotlin & Spring : 리팩토링부터 서비스 구현까지](https://github.com/seohaem/2023/tree/main/fastcampus_kotlin)
 * [x] [[28] 토비의 스프링 부트 - 이해와 원리](https://github.com/seohaem/2023/tree/main/toby_springboot)
+* [ ] [[29] 이펙티브 자바 완벽 공략 1부](https://www.inflearn.com/course/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-1/dashboard)
 
 # Study
 
