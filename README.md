@@ -5,7 +5,7 @@
 * [x] [Expedia](https://github.com/cIonecoder)
 
 # 스터디 모임
-* [ ] [몽고DB 완벽가이드 (2023.01.14 ~ 진행중)](https://github.com/Meet-Coder-Study/mongodb-study)
+* [x] [몽고DB 완벽가이드 (2023.01.14 ~ 2023.04.15)](https://github.com/Meet-Coder-Study/mongodb-study)
 * [ ] [이펙티브자바 1부 (2023.03.28 ~ 진행중)]()
 
 # 강의
