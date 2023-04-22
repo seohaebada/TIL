@@ -624,7 +624,7 @@
 * [x] [냄새 24. 주석](https://github.com/seohaebada/2021to2022/tree/master/java/java-refactoring/src/main/java/me/whiteship/refactoring/_24_comments)
 * [x] [냄새 24. 리팩토링 43. 어서션 추가하기](https://github.com/seohaebada/2021to2022/tree/master/java/java-refactoring/src/main/java/me/whiteship/refactoring/_24_comments/_43_introduce_assertion)
 
-## RxJava-Reactive Programming
+## Reactive Programming
 * [x] [[RxJava] 리액티브(Reactive) 프로그래밍이란](https://github.com/seohaebada/2021to2022/tree/master/webflux/rxjava_lecture/src/main/java/com/itvillage/chapter01)
 * [x] [[RxJava] 마블 다이어그램 소개](https://github.com/seohaebada/2021to2022/tree/master/webflux/rxjava_lecture/src/main/java/com/itvillage/chapter01)
 * [x] [[RxJava] 프로젝트 환경 구축 및 Hello RxJava](https://github.com/seohaebada/2021to2022/tree/master/webflux/rxjava_lecture/src/main/java/com/itvillage/chapter02)
@@ -681,6 +681,7 @@
 * [x] [007_WebClient.md](https://github.com/seohaebada/TIL/blob/master/10_webflux/007_WebClient.md)
 * [x] [008_스프링_데이터_R2DBC](https://github.com/seohaebada/TIL/blob/master/10_webflux/008_%EC%8A%A4%ED%94%84%EB%A7%81_%EB%8D%B0%EC%9D%B4%ED%84%B0_R2DBC.md)
 * [x] [009_webflux_coroutine.md](https://github.com/seohaebada/TIL/blob/master/10_webflux/009_webflux_coroutine.md)
+* [x] [[리액티브 프로그래밍] Cold Sequence vs Hot Sequence](https://devfunny.tistory.com/913)
 
 ## Domain Driven Design
 * [x] [[ddd] 아키텍처 구조 연습 (package struct)](https://github.com/seohaebada/ddd/tree/master/ddd-practice-package-project)
