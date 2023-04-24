@@ -682,6 +682,7 @@
 * [x] [008_스프링_데이터_R2DBC](https://github.com/seohaebada/TIL/blob/master/10_webflux/008_%EC%8A%A4%ED%94%84%EB%A7%81_%EB%8D%B0%EC%9D%B4%ED%84%B0_R2DBC.md)
 * [x] [009_webflux_coroutine.md](https://github.com/seohaebada/TIL/blob/master/10_webflux/009_webflux_coroutine.md)
 * [x] [`블로그` [리액티브 프로그래밍] Cold Sequence vs Hot Sequence](https://devfunny.tistory.com/913)
+* [x] [`블로그` [리액티브 프로그래밍] Backpressure의 개념과 Backpressure 전략](https://devfunny.tistory.com/914)
 
 ## Domain Driven Design
 * [x] [[ddd] 아키텍처 구조 연습 (package struct)](https://github.com/seohaebada/ddd/tree/master/ddd-practice-package-project)
