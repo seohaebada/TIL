@@ -76,6 +76,8 @@
 * [x] [[28] 토비의 스프링 부트 - 이해와 원리](https://github.com/seohaebada/2023/tree/main/toby_springboot)
 * [ ] [[29] 이펙티브 자바 완벽 공략 1부](https://www.inflearn.com/course/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-1/dashboard)
 * [ ] [[30] Jenkins를 이용한 CI/CD Pipeline 구축](https://www.inflearn.com/course/%EC%A0%A0%ED%82%A8%EC%8A%A4-ci-cd-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8)
+* [x] [[31] 더 자바, 코드를 조작하는 다양한 방법](https://www.inflearn.com/course/the-java-code-manipulation)
+  - https://github.com/seohaebada/2023/tree/main/theJavaCode
 
 # Study
 
@@ -249,6 +251,8 @@
 * [x] [아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://devfunny.tistory.com/530)
 * [x] [아이템 6. 불필요한 객체 생성을 피하라](https://devfunny.tistory.com/531)
 * [x] [아이템 7. 다 쓴 객체 참조를 해제하라](https://devfunny.tistory.com/919)
+* [x] [아이템 8. finalizer와 cleaner 사용을 피하라](https://devfunny.tistory.com/921)
+* [x] [아이템 9. try-finally 보다 try-with-resouces를 사용하라](https://devfunny.tistory.com/922)
 * [x] [아이템 15. 클래스와 멤버의 접근 권한을 최소화하라](https://devfunny.tistory.com/540)
 * [x] [아이템 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라](https://devfunny.tistory.com/542)
 * [x] [아이템 17. 변경 가능성을 최소화하라](https://devfunny.tistory.com/543)
