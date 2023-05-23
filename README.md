@@ -78,6 +78,8 @@
 * [ ] [[30] Jenkins를 이용한 CI/CD Pipeline 구축](https://www.inflearn.com/course/%EC%A0%A0%ED%82%A8%EC%8A%A4-ci-cd-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8)
 * [x] [[31] 더 자바, 코드를 조작하는 다양한 방법](https://www.inflearn.com/course/the-java-code-manipulation)
   - https://github.com/seohaebada/2023/tree/main/theJavaCode
+* [x] [[32] 더 자바, 애플리케이션을 테스트하는 다양한 방법](https://www.inflearn.com/course/the-java-application-test#curriculum)
+  - https://github.com/seohaebada/2023/tree/main/theJavaTestJunit
 
 # Study
 
