@@ -1,4 +1,4 @@
-# Seohae's Dev Wiki
+# Seohae's Development Wiki
 [![Blog](https://img.shields.io/badge/Blog-https://devfunny.tistory.com/-green.svg)](https://devfunny.tistory.com/)
 
 # 사이드 프로젝트
