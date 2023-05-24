@@ -3,6 +3,7 @@
 
 # 사이드 프로젝트
 * [x] [Expedia](https://github.com/cIonecoder)
+* [ ] [EverydayProject](https://github.com/seohaebada/everydayProject)
 
 # 스터디 모임
 * [x] [몽고DB 완벽가이드 (2023.01.14 ~ 2023.04.15)](https://github.com/Meet-Coder-Study/mongodb-study)
@@ -255,6 +256,7 @@
 * [x] [`blog` [Java] 아이템 7. 다 쓴 객체 참조를 해제하라](https://devfunny.tistory.com/919)
 * [x] [`blog` [Java] 아이템 8. finalizer와 cleaner 사용을 피하라](https://devfunny.tistory.com/921)
 * [x] [`blog` [Java] 아이템 9. try-finally 보다 try-with-resouces를 사용하라](https://devfunny.tistory.com/922)
+* [x] [`blog` [Java] 아이템 10. equals는 일반 규약을 지켜 재정의하라](https://devfunny.tistory.com/923)
 * [x] [`blog` [Java] 아이템 15. 클래스와 멤버의 접근 권한을 최소화하라](https://devfunny.tistory.com/540)
 * [x] [`blog` [Java] 아이템 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라](https://devfunny.tistory.com/542)
 * [x] [`blog` [Java] 아이템 17. 변경 가능성을 최소화하라](https://devfunny.tistory.com/543)
@@ -714,3 +716,4 @@
 * [x] [`blog` [Docker] Dockerfile이란 무엇인가?](https://devfunny.tistory.com/904)
 * [x] [`blog` [Docker] docker + postgresql 설치부터 계정 생성까지](https://devfunny.tistory.com/906)
 * [x] [`blog` [docker] jenkins 설치하고 간단한 Item 생성해서 빌드해보자](https://devfunny.tistory.com/910)
+* [x] [`blog` [docker] [MongoDB] Docker + MongoDB 설치 및 계정생성](https://devfunny.tistory.com/920)
