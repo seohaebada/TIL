@@ -475,7 +475,7 @@
 * [x] [`blog` 이진탐색](https://devfunny.tistory.com/712)
 * [x] [`blog` 다이나믹 프로그래밍](https://devfunny.tistory.com/713)
 * [x] [`blog` 최단 경로 - 다익스트라](https://devfunny.tistory.com/638)
-  - https://devfunny.tistory.com/641
+* [x] [`blog` 최단 경로 - 다익스트라2](https://devfunny.tistory.com/641)
 * [x] [`blog` 최단 경로 - 플로이드 워셜](https://devfunny.tistory.com/648)
 * [x] [`blog` 그래프 이론 - 서로소 집합](https://devfunny.tistory.com/659)
 * [x] [`blog` 그래프 이론 - 크루스칼](https://devfunny.tistory.com/660)
