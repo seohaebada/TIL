@@ -122,6 +122,9 @@
 * [x] [`git` [JAVA] JAVA 멀티쓰레드: 들어가며](https://github.com/seohaebada/2021to2022/tree/master/parallel-programming/concurrency_lecture1/src/main/java/org/example/chap01_introduction/_step01_serial)
 * [x] [`git` [JAVA] JAVA 멀티쓰레드: 멀티쓰레드 예제](https://github.com/seohaebada/2021to2022/tree/master/parallel-programming/concurrency_lecture1/src/main/java/org/example/chap02_multiThread)
 * [x] [`git` [JAVA] JAVA 멀티쓰레드: 동시성 제어](https://github.com/seohaebada/2021to2022/tree/master/parallel-programming/concurrency_lecture1/src/main/java/org/example/chap03_concurrency)
+* [x] [`git` [JAVA] 섹션 2. 리플렉션](https://github.com/seohaebada/2023/tree/main/theJavaCode/section2)
+* [x] [`git` [JAVA] 섹션 3. 다이나믹 프록시](https://github.com/seohaebada/2023/tree/main/theJavaCode/section3)
+* [x] [`git` [JAVA] 섹션 4. 애노테이션 프로세서](https://github.com/seohaebada/2023/tree/main/theJavaCode/section4)
 
 ## Spring
 * [x] [`blog` [Spring] 스프링부트 공통 Exception 처리하기](https://devfunny.tistory.com/318)
@@ -174,6 +177,11 @@
 * [x] [`git` [Spring] chapter07. 스프링 부트 메시징](https://github.com/seohaebada/2023/tree/main/springboot-reactive/7-reactive)
 * [x] [`git` [Spring] chapter08. 스프링 부트 R소켓 - server](https://github.com/seohaebada/2023/tree/main/springboot-reactive/8-reactive-server)
 * [x] [`git` [Spring] chapter08. 스프링 부트 R소켓 - client](https://github.com/seohaebada/2023/tree/main/springboot-reactive/8-reactive-client)
+* [x] [`git` [Spring] 섹션 0. 1부 JUnit 5](https://github.com/seohaebada/2023/tree/main/theJavaTestJunit/the-java-test)
+* [x] [`git` [Spring] 섹션 1. Mockito](https://github.com/seohaebada/2023/tree/main/theJavaTestJunit/the-java-test-mock)
+* [x] [`git` [Spring] Scheduler](https://github.com/seohaebada/2023/tree/main/toby_youtube/scheduler)
+* [x] [`git` [Spring] JdbcTemplate](https://github.com/seohaebada/2023/tree/main/toby_youtube/jdbc)
+* [x] [`git` [Spring] RestTemplate](https://github.com/seohaebada/2023/tree/main/toby_youtube/consume-restful)
 
 ## SpringBatch
 * [x] [`blog` [SpringBatch] 1. Hello Spring Batch!](https://devfunny.tistory.com/754)
