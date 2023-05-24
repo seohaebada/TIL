@@ -334,6 +334,16 @@
 * [x] [`blog` [Java] 아이템 88. readObject 메서드는 방어적으로 작성하라](https://devfunny.tistory.com/862)
 * [x] [`blog` [Java] 아이템 89. 인스턴스 수를 통제해야 한다면 readResolve보다는 열거 타입을 사용하라](https://devfunny.tistory.com/863)
 * [x] [`blog` [Java] 아이템 90. 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라](https://devfunny.tistory.com/864)
+* [x] [`git` [Java] 아이템 1. 생성자 대신 정적 팩터리 메서드를 고려하라 - 예제코드](https://github.com/seohaebada/2023/tree/main/2023_effectivejava/lecture_exam/src/main/java/me/whiteship/chapter01/item01)
+* [x] [`git` [Java] 아이템 2. 생성자에 매개변수가 많다면 빌더를 고려하라 - 예제코드](https://github.com/seohaebada/2023/tree/main/2023_effectivejava/lecture_exam/src/main/java/me/whiteship/chapter01/item02)
+* [x] [`git` [Java] 아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라 - 예제코드](https://github.com/seohaebada/2023/tree/main/2023_effectivejava/lecture_exam/src/main/java/me/whiteship/chapter01/item03)
+* [x] [`git` [Java] 아이템 4. 인스턴스화를 막으려거든 private 생성자를 사용하라 - 예제코드](https://github.com/seohaebada/2023/tree/main/2023_effectivejava/lecture_exam/src/main/java/me/whiteship/chapter01/item04)
+* [x] [`git` [Java] 아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 - 예제코드](https://github.com/seohaebada/2023/tree/main/2023_effectivejava/lecture_exam/src/main/java/me/whiteship/chapter01/item05)
+* [x] [`git` [Java] 아이템 6. 불필요한 객체 생성을 피하라 - 예제코드](https://github.com/seohaebada/2023/tree/main/2023_effectivejava/lecture_exam/src/main/java/me/whiteship/chapter01/item06)
+* [x] [`git` [Java] 아이템 7. 다 쓴 객체 참조를 해제하라 - 예제코드](https://github.com/seohaebada/2023/tree/main/2023_effectivejava/lecture_exam/src/main/java/me/whiteship/chapter01/item07)
+* [x] [`git` [Java] 아이템 8. finalizer와 cleaner 사용을 피하라 - 예제코드](https://github.com/seohaebada/2023/tree/main/2023_effectivejava/lecture_exam/src/main/java/me/whiteship/chapter01/item08)
+* [x] [`git` [Java] 아이템 9. try-finally 보다 try-with-resouces를 사용하라 - 예제코드](https://github.com/seohaebada/2023/tree/main/2023_effectivejava/lecture_exam/src/main/java/me/whiteship/chapter01/item09)
+* [x] [`git` [Java] 아이템 10. equals는 일반 규약을 지켜 재정의하라 - 예제코드](https://github.com/seohaebada/2023/tree/main/2023_effectivejava/lecture_exam/src/main/java/me/whiteship/chapter02/item10)
 
 ## Apache Kafka
 * [x] [`blog` [Kafka] 1. 카프카의 탄생](https://devfunny.tistory.com/742)
@@ -696,6 +706,15 @@
 * [x] [`blog` [리액티브 프로그래밍] Reactor의 Scheduler](https://devfunny.tistory.com/915)
 * [x] [`blog` [리액티브 프로그래밍] Reactor의 Context](https://devfunny.tistory.com/916)
 * [x] [`blog` [리액티브 프로그래밍] Reactor의 debugging](https://devfunny.tistory.com/917)
+* [x] [`git` [리액티브 프로그래밍] Chapter 15.Spring WebFlux](https://github.com/seohaebada/2023/tree/main/Spring-Reactive-Book/part3/chapter15)
+* [x] [`git` [리액티브 프로그래밍] Chapter 16.애너테이션 기반 컨트롤러(Annotated Controller)](https://github.com/seohaebada/2023/tree/main/Spring-Reactive-Book/part3/chapter16)
+* [x] [`git` [리액티브 프로그래밍] Chapter 17.함수형 엔드포인트(Functional Endpoint)](https://github.com/seohaebada/2023/tree/main/Spring-Reactive-Book/part3/chapter17)
+* [x] [`git` [리액티브 프로그래밍] Chapter 18.Spring Data R2DBC](https://github.com/seohaebada/2023/tree/main/Spring-Reactive-Book/part3/chapter18)
+* [x] [`git` [리액티브 프로그래밍] Chapter 19.예외 처리](https://github.com/seohaebada/2023/tree/main/Spring-Reactive-Book/part3/chapter19)
+* [x] [`git` [리액티브 프로그래밍] Chapter 20.WebClient](https://github.com/seohaebada/2023/tree/main/Spring-Reactive-Book/part3/chapter20)
+* [x] [`git` [리액티브 프로그래밍] Chapter 21.Reactive Streaming 데이터 처리](https://github.com/seohaebada/2023/tree/main/Spring-Reactive-Book/part3/chapter21)
+* [x] [`git` [리액티브 프로그래밍] fastcampus-spinrg-data-r2dbc](https://github.com/seohaebada/2023/tree/main/fastcampus_kotlin/r2dbc/fastcampus-spring-data-r2dbc-master)
+* [x] [`git` [리액티브 프로그래밍] webflux with coroutine](https://github.com/seohaebada/2023/tree/main/fastcampus_kotlin/webflux)
 
 ## Domain Driven Design
 * [x] [`blog` [Domain Driven Design] 아키텍처 구조 연습 (package struct)](https://github.com/seohaebada/ddd/tree/master/ddd-practice-package-project)
