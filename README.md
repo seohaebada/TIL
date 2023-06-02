@@ -4,7 +4,7 @@
 # Repository by year
 * [x] [2017](https://github.com/seohaebada/2017old)
 * [x] [2021.07 ~ 2022](https://github.com/seohaebada/2021to2022)
-* [ ] [2023](https://github.com/seohaebada/2023)
+* [ ] [2023 (~ing)](https://github.com/seohaebada/2023)
 
 # 사이드 프로젝트
 * [x] [Expedia](https://github.com/cIonecoder)
