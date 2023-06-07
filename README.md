@@ -86,6 +86,7 @@
   - https://github.com/seohaebada/2023/tree/main/theJavaCode
 * [x] [[32] 더 자바, 애플리케이션을 테스트하는 다양한 방법](https://www.inflearn.com/course/the-java-application-test#curriculum)
   - https://github.com/seohaebada/2023/tree/main/theJavaTestJunit
+* [x] [[33] Java: Multi-threading and Concurrency Simplified]()
 
 # Study
 
