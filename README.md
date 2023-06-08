@@ -80,7 +80,7 @@
   - https://github.com/seohaebada/2021to2022/tree/master/parallel-programming/concurrency-stock-project
 * [x] [[27] 실무 프로젝트로 배우는 Kotlin & Spring : 리팩토링부터 서비스 구현까지](https://github.com/seohaebada/2023/tree/main/fastcampus_kotlin)
 * [x] [[28] 토비의 스프링 부트 - 이해와 원리](https://github.com/seohaebada/2023/tree/main/toby_springboot)
-* [ ] [[29] 이펙티브 자바 완벽 공략 1부](https://www.inflearn.com/course/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-1/dashboard)
+* [x] [[29] 이펙티브 자바 완벽 공략 1부](https://www.inflearn.com/course/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-1/dashboard)
 * [ ] [[30] Jenkins를 이용한 CI/CD Pipeline 구축](https://www.inflearn.com/course/%EC%A0%A0%ED%82%A8%EC%8A%A4-ci-cd-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8)
 * [x] [[31] 더 자바, 코드를 조작하는 다양한 방법](https://www.inflearn.com/course/the-java-code-manipulation)
   - https://github.com/seohaebada/2023/tree/main/theJavaCode
