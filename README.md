@@ -274,6 +274,8 @@
 * [x] [`blog` [Java] 아이템 10. equals는 일반 규약을 지켜 재정의하라](https://devfunny.tistory.com/923)
 * [x] [`blog` [Java] 아이템 11. equals를 재정의하려거든 hashCode도 재정의하라](https://devfunny.tistory.com/924)
 * [x] [`blog` [Java] 아이템 12. toString을 항상 재정의하라](https://devfunny.tistory.com/925)
+* [x] [`blog` [Java] 아이템 13. clone 재정의는 주의해서 진행하라](https://devfunny.tistory.com/926)
+* [x] [`blog` [Java] 아이템 14. Comparable을 구현할지 고려하라](https://devfunny.tistory.com/927)
 * [x] [`blog` [Java] 아이템 15. 클래스와 멤버의 접근 권한을 최소화하라](https://devfunny.tistory.com/540)
 * [x] [`blog` [Java] 아이템 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라](https://devfunny.tistory.com/542)
 * [x] [`blog` [Java] 아이템 17. 변경 가능성을 최소화하라](https://devfunny.tistory.com/543)
