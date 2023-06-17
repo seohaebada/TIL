@@ -734,6 +734,7 @@
 * [x] [`git` [리액티브 프로그래밍] Chapter 21.Reactive Streaming 데이터 처리](https://github.com/seohaebada/2023/tree/main/Spring-Reactive-Book/part3/chapter21)
 * [x] [`git` [리액티브 프로그래밍] fastcampus-spinrg-data-r2dbc](https://github.com/seohaebada/2023/tree/main/fastcampus_kotlin/r2dbc/fastcampus-spring-data-r2dbc-master)
 * [x] [`git` [리액티브 프로그래밍] webflux with coroutine](https://github.com/seohaebada/2023/tree/main/fastcampus_kotlin/webflux)
+* [x] [`blog` [리액티브 프로그래밍] 리액티브 스트림즈(Reactive Streams) 핵심 컴포넌트의 동작과정](https://devfunny.tistory.com/928)
 
 ## Domain Driven Design
 * [x] [`blog` [Domain Driven Design] 아키텍처 구조 연습 (package struct)](https://github.com/seohaebada/ddd/tree/master/ddd-practice-package-project)
