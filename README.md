@@ -13,7 +13,7 @@
 # 스터디 모임
 * [x] [몽고DB 완벽가이드 (2023.01.14 ~ 2023.04.15)](https://github.com/Meet-Coder-Study/mongodb-study)
 * [x] [이펙티브자바 1부 (2023.03.28 ~ 2023.06.15)](https://github.com/seohaebada/2023/tree/main/2023_effectivejava)
-* [ ] [이펙티브자바 2부 (2023.07.11 ~ )](https://github.com/seohaebada/2023/tree/main/2023_effectivejava_2)
+* [ ] [이펙티브자바 2부 (2023.07.08 ~ ing)](https://github.com/seohaebada/2023/tree/main/2023_effectivejava_2)
 
 # 강의
 * [x] [[1] 코딩으로 학습하는 GoF의 디자인 패턴](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
